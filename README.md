@@ -8,7 +8,7 @@
 <h6>
 :sparkles:I'm   <i>Varsha Vinod</i> from India . Basically a non IT graduate but passionate about coding. 
  
-:open_book:I love leanrning new technologies. <br>
+:open_book:I love learning new technologies. <br>
   :pencil2:I'm currently learning python full stack devolopment.<br>
   :desktop_computer:Interested in working on both frontend and backend devoplopment.
  <h6>
@@ -22,7 +22,8 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; 
   <br><br>
-  :e-mail: How to reach me: varshavinod06@gmail.com
+  :e-mail: How to reach me: 
+  varshavinod06@gmail.com
 
 <!---
 Varsha06vinod/Varsha06vinod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
