@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
 <h6>
-:sparkles:I'm   <i>Varsha Vinod</i> from India . Basically a non IT graduate but passionate about coding. 
+:sparkles:I'm   <i>Varsha Vinod</i> from India . Basically a non IT graduate but passionate about coding. And that's why I'm here!!
  
 :open_book:I love learning new technologies. <br>
   :pencil2:I'm currently learning python full stack devolopment.<br>
